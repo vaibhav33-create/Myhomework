@@ -1,0 +1,6 @@
+browser = chrome
+url = https://www.google.com
+KAM_url=https://ibpodev.home.tatamotors/KAM/
+seleniumseay_url = https://www.seleniumeasy.com/test/table-sort-search-demo.html
+rows = //*[@id='example']/tbody/tr
+column = //*[@id='example']/thead/tr/th
